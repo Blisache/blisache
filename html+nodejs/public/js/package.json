@@ -1,0 +1,15 @@
+{
+    "scripts": {
+        "build": "webpack --config webpack.config.js"
+    },
+    "dependencies": {
+        "blisache-html": "^1.0.2",
+        "blisache-error": "^1.0.1"
+    },
+    "devDependencies": {
+        "babel-loader": "10.0.0",
+        "@babel/preset-env": "^7.27.2",
+        "webpack": "^5.99.6",
+        "webpack-cli": "^5.1.4"
+    }
+}
