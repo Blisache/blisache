@@ -12,10 +12,11 @@ packages:
   blisache:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
-    version: "0.0.1"
+      name: blisache
+      sha256: "18cd5223d757a055a8d4a003a47b646d8cdbc4e03f13646258500fffb552b4c9"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.2"
   boolean_selector:
     dependency: transitive
     description:
